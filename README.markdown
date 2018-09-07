@@ -1,6 +1,6 @@
 # SwiftRTP
 
-Swift 2 (iOS and Mac OS) implementation of RTP (["RTP: A Transport Protocol
+Swift 3 (iOS and Mac OS) implementation of RTP (["RTP: A Transport Protocol
 for Real-Time Applications"](https://tools.ietf.org/html/rfc3550)) and the H264
 RTP Profile (["RTP Payload Format for H.264 Video"](http://tools.ietf.org/html/rfc3984)).
 
